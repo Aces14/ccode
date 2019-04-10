@@ -3,10 +3,11 @@
 // run ./a.out
 #include <stdio.h>
 int main(){
-  printf("*** Hello World ***\n");
-  printf("*       from      *\n");
-  printf("*  JJJ C   C   AAA*\n");
-  printf("* J      C C C  A *\n");
-  printf("*******************\n");
+  printf("**** Hello World ****\n");
+  printf("*       from        *\n");
+  printf("* JJJJJ  CCC    A   *\n");
+  printf("*   J   C      A A  *\n");
+  printf("* JJJ    CCC  A   A *\n");
+  printf("*********************\n");
   return 0;
 }
